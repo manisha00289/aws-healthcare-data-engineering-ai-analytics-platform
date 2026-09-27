@@ -1,0 +1,30 @@
+[
+    {
+        "patient_id": "P1001",
+        "age": 45,
+        "department": "Cardiology",
+        "visit_cost": 350.5,
+        "insurance_provider": "Blue Cross"
+    },
+    {
+        "patient_id": "P1002",
+        "age": 62,
+        "department": "Neurology",
+        "visit_cost": 420.0,
+        "insurance_provider": "Aetna"
+    },
+    {
+        "patient_id": "P1003",
+        "age": 37,
+        "department": "Orthopedics",
+        "visit_cost": 275.75,
+        "insurance_provider": "UnitedHealthcare"
+    },
+    {
+        "patient_id": "P1004",
+        "age": 51,
+        "department": "Oncology",
+        "visit_cost": 500.0,
+        "insurance_provider": "Cigna"
+    }
+]
